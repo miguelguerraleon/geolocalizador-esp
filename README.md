@@ -1,5 +1,3 @@
-
-</p>
 **Es la versión oficial de SEEKER con las plantillas modificadas al idioma español.**
 El concepto detrás de Seeker es simple, ¿por qué no alojar una página falsa que solicite su ubicación como muchos sitios web basados en la ubicación? Seeker crea un sitio web falso que solicita Permiso de ubicación y, si el objetivo lo permite, podemos obtener:
 
