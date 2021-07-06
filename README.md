@@ -63,8 +63,8 @@ Plantillas disponibles :
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
-cd seeker/
+git clone https://github.com/miguelguerraleon/geolocalizador-esp.git
+cd geolocalizador-es/
 apt update
 apt install python3 python3-pip php
 pip3 install requests
@@ -79,8 +79,8 @@ pacman -S seeker
 ### Termux
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
-cd seeker/
+git clone https://github.com/miguelguerraleon/geolocalizador-esp.git
+cd geolocalizador-es/
 pkg update
 pkg install python php
 pip3 install requests
